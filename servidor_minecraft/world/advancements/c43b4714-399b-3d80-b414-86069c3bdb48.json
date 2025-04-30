@@ -846,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-30 04:20:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-30 04:09:31 +0000"
@@ -1550,6 +1556,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/saber_diamond": {
     "criteria": {
       "has_diamond": "2025-04-30 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-04-30 04:20:57 +0000"
     },
     "done": true
   },
