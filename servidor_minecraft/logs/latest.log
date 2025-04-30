@@ -135,3 +135,7 @@
 [30Apr2025 04:16:57.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio tried to swim in lava
 [30Apr2025 04:17:02.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
 [30Apr2025 04:25:31.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio has made the advancement [Best Friends Forever]
+[30Apr2025 04:45:26.773] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@b92fa28[id=<null>,name=esteban0106,properties={},legacy=false] (/127.54.226.4:50711) lost connection: Disconnected
+[30Apr2025 04:46:39.015] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@13d67020[id=<null>,name=esteban0106,properties={},legacy=false] (/127.54.226.4:56251) lost connection: Disconnected
+[30Apr2025 04:47:13.716] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5a86904a[id=<null>,name=esteban0106,properties={},legacy=false] (/127.54.226.4:55129) lost connection: Disconnected
+[30Apr2025 04:48:05.064] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@53b1eac0[id=<null>,name=esteban0106,properties={},legacy=false] (/127.54.226.4:45229) lost connection: Disconnected
