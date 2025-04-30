@@ -3107,3 +3107,17 @@
 [30Apr2025 04:59:38.550] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
 [30Apr2025 05:00:58.635] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [30Apr2025 05:00:58.640] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Apr2025 05:04:02.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio fell from a high place
+[30Apr2025 05:04:09.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
+[30Apr2025 05:04:26.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted PlayerEntity.getHeldItem() method!
+[30Apr2025 05:04:26.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[30Apr2025 05:04:27.101] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[30Apr2025 05:05:03.214] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Salchipoio lost connection: Disconnected
+[30Apr2025 05:05:03.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio left the game
+[30Apr2025 05:05:04.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana fell from a high place
+[30Apr2025 05:05:07.408] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: coca_cola_humana lost connection: Disconnected
+[30Apr2025 05:05:07.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana left the game
+[30Apr2025 05:05:58.271] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Apr2025 05:05:58.277] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[30Apr2025 05:10:58.234] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[30Apr2025 05:10:58.240] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world

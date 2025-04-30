@@ -152,3 +152,10 @@
 [30Apr2025 04:59:29.186] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8e6e6dd
 [30Apr2025 04:59:29.195] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Salchipoio[/127.192.2.104:39681] logged in with entity id 18950 at (282.81867061269224, 64.0, -585.4735048092963)
 [30Apr2025 04:59:29.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio joined the game
+[30Apr2025 05:04:02.396] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio fell from a high place
+[30Apr2025 05:04:09.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
+[30Apr2025 05:05:03.214] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Salchipoio lost connection: Disconnected
+[30Apr2025 05:05:03.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio left the game
+[30Apr2025 05:05:04.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana fell from a high place
+[30Apr2025 05:05:07.408] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: coca_cola_humana lost connection: Disconnected
+[30Apr2025 05:05:07.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana left the game
