@@ -84,3 +84,19 @@
 [30Apr2025 03:17:26.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana has made the advancement [Getting an Upgrade]
 [30Apr2025 03:17:31.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana has made the advancement [Take Aim]
 [30Apr2025 03:17:46.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana has made the advancement [Monster Hunter]
+[30Apr2025 03:20:33.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[30Apr2025 03:20:33.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gamegamerule kgamerule keepinventory true<--[HERE]
+[30Apr2025 03:20:49.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[30Apr2025 03:20:49.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gamerule keepinventory true<--[HERE]
+[30Apr2025 03:21:18.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[30Apr2025 03:21:18.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gamerule keepinventory true<--[HERE]
+[30Apr2025 03:21:33.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Incorrect argument for command
+[30Apr2025 03:21:33.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: gamerule keepinventory<--[HERE]
+[30Apr2025 03:21:39.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Salchipoio a server operator
+[30Apr2025 03:21:48.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Salchipoio: Gamerule keepInventory is now set to: true]
+[30Apr2025 03:21:56.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Salchipoio no longer a server operator
+[30Apr2025 03:22:25.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio was slain by coca_cola_humana
+[30Apr2025 03:23:14.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio has made the advancement [Will it Come Back?]
+[30Apr2025 03:23:17.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio has made the advancement [Take Aim]
+[30Apr2025 03:23:32.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio has made the advancement [Voluntary Exile]
+[30Apr2025 03:29:09.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported coca_cola_humana to Salchipoio
