@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-04-30 03:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-04-28 23:36:50 +0000"
@@ -223,7 +229,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-04-30 03:28:47 +0000"
+      "apple": "2025-04-30 03:28:47 +0000",
+      "cooked_salmon": "2025-04-30 03:44:37 +0000"
     },
     "done": false
   },
@@ -757,6 +764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-30 03:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-28 23:25:10 +0000"
@@ -778,6 +791,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-04-30 03:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-30 03:44:29 +0000"
     },
     "done": true
   },
@@ -832,6 +851,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-30 03:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-30 03:42:06 +0000"
     },
     "done": true
   },
@@ -916,6 +941,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-04-28 23:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_the_recipe": "2025-04-30 03:41:24 +0000"
     },
     "done": true
   },
@@ -1009,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-04-30 03:43:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-04-28 23:27:26 +0000"
@@ -1042,6 +1079,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-04-28 23:33:18 +0000",
+      "minecraft:birch_forest": "2025-04-30 03:45:51 +0000",
       "minecraft:dark_forest": "2025-04-28 23:07:21 +0000",
       "minecraft:river": "2025-04-28 23:36:50 +0000",
       "minecraft:wooded_hills": "2025-04-28 23:26:47 +0000",
@@ -1071,6 +1109,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-04-28 23:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-30 03:42:06 +0000"
     },
     "done": true
   },
@@ -1173,6 +1217,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/parrying_dagger_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-28 23:27:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-04-30 03:40:32 +0000"
     },
     "done": true
   },

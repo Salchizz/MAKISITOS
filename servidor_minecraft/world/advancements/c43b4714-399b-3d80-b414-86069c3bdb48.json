@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "spartanweaponry:throwing_knife": {
+    "criteria": {
+      "has_throwing_knife": "2025-04-30 03:41:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/rapier_wood": {
     "criteria": {
       "has_wood": "2025-04-30 03:13:27 +0000"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-30 03:38:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-04-30 03:17:37 +0000"
@@ -254,6 +266,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/arrow_wood": {
     "criteria": {
       "has_feather": "2025-04-30 03:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-04-30 03:43:25 +0000"
     },
     "done": true
   },
@@ -314,6 +332,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/quiver_arrow_small": {
     "criteria": {
       "has_arrow": "2025-04-30 03:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-30 03:42:33 +0000"
     },
     "done": true
   },
@@ -543,6 +567,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/greatsword_wood": {
     "criteria": {
       "has_wood": "2025-04-30 03:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-04-30 03:43:25 +0000"
     },
     "done": true
   },
@@ -860,6 +890,12 @@
     },
     "done": true
   },
+  "spartanweaponry:glaive": {
+    "criteria": {
+      "has_glaive": "2025-04-30 03:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-30 03:29:25 +0000"
@@ -1013,6 +1049,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/throwing_knife_stone": {
     "criteria": {
       "has_cobblestone": "2025-04-30 03:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-04-30 03:38:20 +0000"
     },
     "done": true
   },
