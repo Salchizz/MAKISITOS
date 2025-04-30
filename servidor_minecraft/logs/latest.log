@@ -128,3 +128,9 @@
 [30Apr2025 04:09:24.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio has made the advancement [Diamonds!]
 [30Apr2025 04:09:31.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana has made the advancement [Diamonds!]
 [30Apr2025 04:10:27.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana has made the advancement [Reaping What You Sow]
+[30Apr2025 04:14:14.913] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio tried to swim in lava to escape coca_cola_humana
+[30Apr2025 04:14:20.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
+[30Apr2025 04:14:57.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana tried to swim in lava
+[30Apr2025 04:15:21.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [coca_cola_humana: Teleported coca_cola_humana to Salchipoio]
+[30Apr2025 04:16:57.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio tried to swim in lava
+[30Apr2025 04:17:02.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
