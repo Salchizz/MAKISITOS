@@ -139,3 +139,16 @@
 [30Apr2025 04:46:39.015] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@13d67020[id=<null>,name=esteban0106,properties={},legacy=false] (/127.54.226.4:56251) lost connection: Disconnected
 [30Apr2025 04:47:13.716] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5a86904a[id=<null>,name=esteban0106,properties={},legacy=false] (/127.54.226.4:55129) lost connection: Disconnected
 [30Apr2025 04:48:05.064] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@53b1eac0[id=<null>,name=esteban0106,properties={},legacy=false] (/127.54.226.4:45229) lost connection: Disconnected
+[30Apr2025 04:51:35.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio has made the advancement [En Garde!]
+[30Apr2025 04:52:09.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana has made the advancement [En Garde!]
+[30Apr2025 04:53:12.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana was slain by Salchipoio
+[30Apr2025 04:53:20.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [coca_cola_humana: Teleported coca_cola_humana to Salchipoio]
+[30Apr2025 04:56:56.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana was slain by Zombie
+[30Apr2025 04:57:07.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [coca_cola_humana: Teleported coca_cola_humana to Salchipoio]
+[30Apr2025 04:58:26.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: coca_cola_humana fell from a high place
+[30Apr2025 04:58:30.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [coca_cola_humana: Teleported coca_cola_humana to Salchipoio]
+[30Apr2025 04:58:45.165] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Salchipoio lost connection: Disconnected
+[30Apr2025 04:58:45.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio left the game
+[30Apr2025 04:59:29.186] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8e6e6dd
+[30Apr2025 04:59:29.195] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Salchipoio[/127.192.2.104:39681] logged in with entity id 18950 at (282.81867061269224, 64.0, -585.4735048092963)
+[30Apr2025 04:59:29.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Salchipoio joined the game
