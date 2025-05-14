@@ -748,6 +748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-14 21:17:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-14 21:07:44 +0000"
@@ -823,6 +829,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-14 21:11:17 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:recipes/blast_furnace": {
+    "criteria": {
+      "requirement": "2025-05-14 21:17:00 +0000"
     },
     "done": true
   },

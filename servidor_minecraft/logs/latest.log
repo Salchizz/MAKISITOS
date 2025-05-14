@@ -740,3 +740,20 @@
 [21:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
 [21:09:49] [Server thread/WARN]: coca_cola_humana moved too quickly! -8.144817544089165,0.7967356006687041,5.898495705696405
 [21:11:00] [Server thread/INFO]: Salchipoio has made the advancement [Monster Hunter]
+[21:18:22] [Server thread/INFO]: Salchipoio lost connection: Timed out
+[21:18:22] [Server thread/INFO]: Salchipoio left the game
+[21:18:24] [Server thread/INFO]: coca_cola_humana lost connection: Timed out
+[21:18:24] [Server thread/INFO]: coca_cola_humana left the game
+[21:18:52] [Server thread/INFO]: Stopping the server
+[21:18:52] [Server thread/INFO]: Stopping server
+[21:18:52] [Server thread/INFO]: Saving players
+[21:18:52] [Server thread/INFO]: Saving worlds
+[21:18:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:18:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:18:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:18:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/roguecraft:infinite_garden
+[21:18:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:18:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:18:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:18:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (infinite_garden): All chunks are saved
+[21:18:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

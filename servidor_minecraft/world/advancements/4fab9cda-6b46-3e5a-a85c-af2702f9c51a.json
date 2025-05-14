@@ -85,6 +85,7 @@
       "minecraft:badlands": "2025-05-14 20:51:46 +0000",
       "minecraft:ice_spikes": "2025-05-14 21:09:43 +0000",
       "minecraft:eroded_badlands": "2025-05-14 20:52:24 +0000",
+      "minecraft:frozen_river": "2025-05-14 21:13:38 +0000",
       "minecraft:taiga": "2025-05-14 21:02:15 +0000",
       "minecraft:meadow": "2025-05-14 21:02:25 +0000",
       "minecraft:snowy_plains": "2025-05-14 20:09:14 +0000"
@@ -162,6 +163,7 @@
       "adventure": "2025-05-14 20:21:13 +0000",
       "kill_a_mob": "2025-05-14 21:11:00 +0000",
       "smelt_iron": "2025-05-14 20:19:30 +0000",
+      "husbandry": "2025-05-14 21:14:39 +0000",
       "mine_stone": "2025-05-14 20:10:14 +0000",
       "story": "2025-05-14 20:20:45 +0000"
     },
@@ -695,6 +697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-14 21:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-14 21:12:16 +0000",
@@ -732,6 +740,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-14 21:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-14 21:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-14 21:10:10 +0000"
@@ -759,6 +779,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-14 21:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-14 21:16:49 +0000"
     },
     "done": true
   },
@@ -792,9 +818,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-14 21:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-14 21:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-14 21:16:49 +0000"
     },
     "done": true
   },
@@ -839,6 +877,12 @@
       "has_andesite": "2025-05-14 21:11:03 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-05-14 21:14:38 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
