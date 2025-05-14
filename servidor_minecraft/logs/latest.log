@@ -689,3 +689,35 @@
 [20:49:45] [Worker-Main-6/ERROR]: Detected setBlock in a far chunk [11, -30], pos: a{x=190, y=62, z=-469}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / roguecraft:flower_infinite_garden]
 [20:49:45] [Worker-Main-6/ERROR]: Detected setBlock in a far chunk [9, -30], pos: a{x=151, y=63, z=-469}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / roguecraft:flower_infinite_garden]
 [20:51:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[20:53:16] [Server thread/INFO]: Salchipoio was slain by Zombie
+[20:53:39] [Server thread/INFO]: Salchipoio lost connection: You logged in from another location
+[20:53:39] [Server thread/INFO]: Salchipoio left the game
+[20:53:39] [Server thread/WARN]: handleDisconnection() called twice
+[20:53:40] [Server thread/INFO]: Salchipoio[/127.192.2.104:59731] logged in with entity id 15152 at (-100067.10193558443, 81.0, -100103.3549289944)
+[20:53:40] [Server thread/INFO]: Salchipoio joined the game
+[20:53:46] [Server thread/INFO]: coca_cola_humana lost connection: Timed out
+[20:53:46] [Server thread/INFO]: coca_cola_humana left the game
+[20:53:52] [Server thread/INFO]: coca_cola_humana[/127.97.33.237:36125] logged in with entity id 15176 at (-100042.39038588943, 81.0, -100159.59979073383)
+[20:53:52] [Server thread/INFO]: coca_cola_humana joined the game
+[21:00:08] [Server thread/INFO]: coca_cola_humana lost connection: Timed out
+[21:00:08] [Server thread/INFO]: coca_cola_humana left the game
+[21:00:11] [Server thread/INFO]: Salchipoio lost connection: Timed out
+[21:00:11] [Server thread/INFO]: Salchipoio left the game
+[21:00:14] [Server thread/INFO]: coca_cola_humana[/127.97.33.237:48999] logged in with entity id 16259 at (-100045.40086784166, 82.0, -100182.96740963019)
+[21:00:14] [Server thread/INFO]: coca_cola_humana joined the game
+[21:00:18] [Server thread/INFO]: coca_cola_humana fell from a high place
+[21:00:22] [Server thread/INFO]: Salchipoio[/127.192.2.104:57451] logged in with entity id 16811 at (-100044.28641573444, 79.51236935802957, -100186.03474947353)
+[21:00:22] [Server thread/INFO]: Salchipoio joined the game
+[21:01:38] [Server thread/INFO]: Salchipoio lost connection: Timed out
+[21:01:38] [Server thread/INFO]:  Salchipoio left the game
+[21:01:44] [Server thread/INFO]: coca_cola_humana lost connection: Timed out
+[21:01:44] [Server thread/INFO]:  coca_cola_humana left the game
+[21:01:50] [Server thread/INFO]: Salchipoio[/127.192.2.104:43009] logged in with entity id 20162 at (-23.71312825382331, 65.17675927506424, 21.178623011337574)
+[21:01:50] [Server thread/INFO]:  Salchipoio joined the game
+[21:02:07] [Server thread/INFO]: Salchipoio lost connection: Disconnected
+[21:02:07] [Server thread/INFO]:  Salchipoio left the game
+[21:02:08] [Server thread/INFO]: coca_cola_humana[/127.97.33.237:50939] logged in with entity id 20856 at (-24.609318260201857, 63.0, 25.367544690643477)
+[21:02:08] [Server thread/INFO]:  coca_cola_humana joined the game
+[21:02:12] [Server thread/INFO]: Salchipoio[/127.192.2.104:47399] logged in with entity id 21249 at (11.30538917212618, 63.0, 2.188057585275542)
+[21:02:12] [Server thread/INFO]:  Salchipoio joined the game
+[21:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind

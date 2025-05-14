@@ -82,6 +82,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-05-14 20:51:46 +0000",
+      "minecraft:eroded_badlands": "2025-05-14 20:52:24 +0000",
+      "minecraft:taiga": "2025-05-14 21:02:15 +0000",
+      "minecraft:meadow": "2025-05-14 21:02:25 +0000",
       "minecraft:snowy_plains": "2025-05-14 20:09:14 +0000"
     },
     "done": false
@@ -629,15 +633,15 @@
     },
     "done": true
   },
-  "roguecraft:triggers/equipment_upgrades": {
-    "criteria": {
-      "requirement": "2025-05-14 20:43:26 +0000"
-    },
-    "done": true
-  },
   "roguecraft:challenges/root": {
     "criteria": {
       "granted": "2025-05-14 20:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-14 20:52:41 +0000"
     },
     "done": true
   },
