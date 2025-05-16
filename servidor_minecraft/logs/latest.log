@@ -1,25 +1,51 @@
-[22:09:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:09:22] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:gameplay/piglin_bartering}.pools[0].entries[18].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[22:09:23] [ServerMain/INFO]: Loaded 1249 recipes
-[22:09:24] [ServerMain/INFO]: Loaded 1594 advancements
-[22:09:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:09:24] [Server thread/INFO]: Loading properties
-[22:09:24] [Server thread/INFO]: Default game type: SURVIVAL
-[22:09:24] [Server thread/INFO]: Generating keypair
-[22:09:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:09:24] [Server thread/INFO]: Using epoll channel type
-[22:09:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:09:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:09:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:09:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:09:24] [Server thread/INFO]: Preparing level "world"
-[22:09:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:09:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:09:25] [Server thread/INFO]: Time elapsed: 437 ms
-[22:09:25] [Server thread/INFO]: Done (0.727s)! For help, type "help"
-[22:11:00] [Server thread/INFO]: MimiChan[/127.192.2.104:58493] logged in with entity id 515 at (100000.5, 63.0, 100000.5)
-[22:11:00] [Server thread/INFO]: MimiChan joined the game
-[22:14:03] [Server thread/INFO]: MimiChan has made the advancement [Getting an Upgrade]
-[22:15:17] [Server thread/INFO]: death.attack.shockbolt
-[22:15:41] [Server thread/INFO]: MimiChan lost connection: Disconnected
-[22:15:41] [Server thread/INFO]:  MimiChan left the game
+[02:49:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:49:29] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:gameplay/piglin_bartering}.pools[0].entries[18].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[02:49:31] [ServerMain/INFO]: Loaded 1249 recipes
+[02:49:31] [ServerMain/INFO]: Loaded 1594 advancements
+[02:49:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:49:32] [Server thread/INFO]: Loading properties
+[02:49:32] [Server thread/INFO]: Default game type: SURVIVAL
+[02:49:32] [Server thread/INFO]: Generating keypair
+[02:49:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:49:32] [Server thread/INFO]: Using epoll channel type
+[02:49:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:49:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:49:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:49:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:49:32] [Server thread/INFO]: Preparing level "world"
+[02:49:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:49:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:49:33] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[02:49:33] [Server thread/INFO]: Time elapsed: 865 ms
+[02:49:33] [Server thread/INFO]: Done (1.185s)! For help, type "help"
+[02:49:53] [Server thread/INFO]: Salchipoio[/127.192.2.104:57571] logged in with entity id 544 at (99920.97794679298, 66.0, 100103.59956641811)
+[02:49:53] [Server thread/INFO]: Salchipoio joined the game
+[02:50:48] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:50:48] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
+[02:51:24] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:51:24] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1[D[D[D[D[D[D[D[C[C<--[HERE]
+[02:52:21] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:52:21] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
+[02:52:32] [Server thread/INFO]: Made Salchipoio a server operator
+[02:52:35] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:52:35] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
+[02:53:12] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:53:12] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"knockback",lvl:20s}]} 1<--[HERE]
+[02:53:19] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:53:19] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"knockback",lvl:20s}]} 1<--[HERE]
+[02:54:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:54:07] [Server thread/INFO]: 'give Salchipoio stick{display:{Name:"{\\"text\\":\\"manolito\\"}"},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1'<--[HERE]
+[02:54:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:54:49] [Server thread/INFO]: client.send('give Salchipoio stick{Enchantments:[{id:"minecraft:knockback",lvl:2}]} 1')<--[HERE]
+[02:55:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:55:36] [Server thread/INFO]: client.send('give Salchipoio stick 1')<--[HERE]
+[02:55:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:55:41] [Server thread/INFO]: client.send('enchant Salchipoio knockback 2')<--[HERE]
+[02:56:17] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:56:17] [Server thread/INFO]: ...poio stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]}<--[HERE]
+[02:57:34] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:57:34] [Server thread/INFO]: ...poio stick{display:{Name:"{\"text\":\"manolito\"}"},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
+[02:58:04] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:58:04] [Server thread/INFO]: ...poio stick{display:{Name:"{\"text\":\"manolito\"}"},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
+[02:58:56] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
+[02:58:56] [Server thread/INFO]: ...poio stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]}<--[HERE]
