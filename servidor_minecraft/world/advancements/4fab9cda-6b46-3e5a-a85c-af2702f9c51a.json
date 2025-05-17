@@ -89,6 +89,7 @@
     "criteria": {
       "minecraft:badlands": "2025-05-14 20:51:46 +0000",
       "minecraft:beach": "2025-05-17 00:57:38 +0000",
+      "minecraft:dark_forest": "2025-05-17 23:21:34 +0000",
       "minecraft:forest": "2025-05-16 03:52:15 +0000",
       "minecraft:taiga": "2025-05-14 21:02:15 +0000",
       "minecraft:river": "2025-05-16 03:52:03 +0000",
@@ -96,10 +97,12 @@
       "minecraft:dripstone_caves": "2025-05-17 00:32:21 +0000",
       "minecraft:snowy_taiga": "2025-05-17 00:39:42 +0000",
       "minecraft:ice_spikes": "2025-05-14 21:09:43 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-17 23:39:35 +0000",
       "minecraft:eroded_badlands": "2025-05-14 20:52:24 +0000",
       "minecraft:frozen_river": "2025-05-14 21:13:38 +0000",
       "minecraft:swamp": "2025-05-17 00:55:45 +0000",
       "minecraft:meadow": "2025-05-14 21:02:25 +0000",
+      "minecraft:birch_forest": "2025-05-17 23:39:39 +0000",
       "minecraft:savanna": "2025-05-17 00:27:55 +0000",
       "minecraft:plains": "2025-05-17 00:59:39 +0000"
     },
@@ -175,9 +178,11 @@
     "criteria": {
       "adventure": "2025-05-14 20:21:13 +0000",
       "minecraft_trials_edition": "2025-05-17 00:32:24 +0000",
+      "sleep_in_bed": "2025-05-17 23:38:12 +0000",
       "kill_a_mob": "2025-05-14 21:11:00 +0000",
       "cure_zombie_villager": "2025-05-17 00:38:19 +0000",
       "smelt_iron": "2025-05-14 20:19:30 +0000",
+      "voluntary_exile": "2025-05-17 23:44:36 +0000",
       "husbandry": "2025-05-14 21:14:39 +0000",
       "brew_potion": "2025-05-17 00:34:11 +0000",
       "mine_stone": "2025-05-14 20:10:14 +0000",
@@ -775,8 +780,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-17 23:41:06 +0000",
       "minecraft:skeleton": "2025-05-14 21:12:16 +0000",
-      "minecraft:zombie": "2025-05-14 21:11:00 +0000"
+      "minecraft:zombie": "2025-05-14 21:11:00 +0000",
+      "minecraft:creeper": "2025-05-17 23:35:49 +0000"
     },
     "done": false
   },
@@ -886,6 +893,8 @@
     "criteria": {
       "cooked_rabbit": "2025-05-17 00:49:06 +0000",
       "rotten_flesh": "2025-05-14 21:14:38 +0000",
+      "cooked_mutton": "2025-05-17 23:27:08 +0000",
+      "mushroom_stew": "2025-05-17 23:27:18 +0000",
       "cooked_beef": "2025-05-17 23:04:42 +0000",
       "carrot": "2025-05-17 00:47:32 +0000"
     },
@@ -1770,6 +1779,150 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-05-17 01:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-17 23:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-17 23:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-17 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-17 23:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-17 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-17 23:28:22 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:triggers/equipment_upgrades/bow/crossbow": {
+    "criteria": {
+      "requirement": "2025-05-17 23:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-17 23:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-17 23:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-17 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-17 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-17 23:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-17 23:35:50 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:triggers/equipment_upgrades/bow/bow": {
+    "criteria": {
+      "requirement": "2025-05-17 23:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-17 23:21:34 +0000"
     },
     "done": true
   },

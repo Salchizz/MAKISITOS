@@ -61,3 +61,22 @@
 [23:19:46] [Server thread/INFO]: death.attack.shockbolt
 [23:20:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
 [23:20:56] [Paper Common Worker #0/ERROR]: Failed to fetch mob spawner entity at (-200031, -3, -199798)
+[23:26:34] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana Salchipoio
+[23:26:34] [Server thread/INFO]: [Salchipoio: Teleported coca_cola_humana to Salchipoio]
+[23:28:11] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[23:28:11] [Server thread/INFO]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
+[23:31:42] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_bars 18
+[23:31:42] [Server thread/INFO]: [Salchipoio: Gave 18 [Iron Bars] to Salchipoio]
+[23:35:57] [Server thread/WARN]: Salchipoio moved wrongly!
+[23:38:12] [Server thread/INFO]: Salchipoio has made the advancement [Sweet Dreams]
+[23:38:12] [Server thread/INFO]: coca_cola_humana has made the advancement [Sweet Dreams]
+[23:42:57] [Server thread/INFO]: coca_cola_humana has made the advancement [Voluntary Exile]
+[23:44:36] [Server thread/INFO]: Salchipoio has made the advancement [Voluntary Exile]
+[23:44:46] [Server thread/INFO]: coca_cola_humana has made the advancement [roguecraft.advancement.name.skillpoint_1]
+[23:46:59] [Server thread/INFO]: Salchipoio has made the advancement [Take Aim]
+[23:49:05] [Server thread/INFO]: coca_cola_humana was shot by Pillager
+[23:51:02] [Server thread/INFO]: coca_cola_humana lost connection: Disconnected
+[23:51:02] [Server thread/INFO]: coca_cola_humana left the game
+[23:51:33] [User Authenticator #2/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
+[23:51:35] [Server thread/INFO]: coca_cola_humana joined the game
+[23:51:35] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:36389] logged in with entity id 12886 at ([world]-199424.1684774686, 81.40513222947028, -200636.80125500468)

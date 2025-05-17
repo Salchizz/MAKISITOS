@@ -37,6 +37,7 @@
   },
   "roguecraft:challenges/truest_completion": {
     "criteria": {
+      "skillpoint_1": "2025-05-17 23:44:46 +0000",
       "roguecraft": "2025-05-14 20:07:29 +0000",
       "challenges": "2025-05-14 20:23:46 +0000",
       "lil_guy": "2025-05-17 01:03:55 +0000",
@@ -47,6 +48,7 @@
   },
   "roguecraft:roguecraft/true_completion": {
     "criteria": {
+      "skillpoint_1": "2025-05-17 23:44:46 +0000",
       "roguecraft": "2025-05-14 20:07:29 +0000",
       "progression": "2025-05-14 20:09:15 +0000",
       "infinite_garden": "2025-05-14 20:24:03 +0000"
@@ -93,6 +95,7 @@
     "criteria": {
       "minecraft:badlands": "2025-05-14 20:51:46 +0000",
       "minecraft:beach": "2025-05-17 00:57:24 +0000",
+      "minecraft:dark_forest": "2025-05-17 23:21:31 +0000",
       "minecraft:forest": "2025-05-17 00:58:26 +0000",
       "minecraft:taiga": "2025-05-14 21:02:15 +0000",
       "minecraft:river": "2025-05-17 00:57:18 +0000",
@@ -100,10 +103,13 @@
       "minecraft:dripstone_caves": "2025-05-14 21:08:53 +0000",
       "minecraft:snowy_taiga": "2025-05-14 21:08:43 +0000",
       "minecraft:ice_spikes": "2025-05-14 21:09:43 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-17 23:39:34 +0000",
       "minecraft:eroded_badlands": "2025-05-14 20:52:13 +0000",
       "minecraft:frozen_river": "2025-05-14 21:13:14 +0000",
       "minecraft:swamp": "2025-05-17 00:55:45 +0000",
       "minecraft:meadow": "2025-05-14 21:02:50 +0000",
+      "minecraft:birch_forest": "2025-05-17 23:39:38 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-17 23:17:10 +0000",
       "minecraft:savanna": "2025-05-17 00:27:55 +0000",
       "minecraft:plains": "2025-05-17 00:59:42 +0000"
     },
@@ -245,9 +251,11 @@
     "criteria": {
       "adventure": "2025-05-14 20:10:49 +0000",
       "minecraft_trials_edition": "2025-05-17 00:32:23 +0000",
+      "sleep_in_bed": "2025-05-17 23:38:12 +0000",
       "kill_a_mob": "2025-05-14 20:10:49 +0000",
       "smelt_iron": "2025-05-17 00:50:01 +0000",
       "enchant_item": "2025-05-17 00:58:43 +0000",
+      "voluntary_exile": "2025-05-17 23:42:57 +0000",
       "husbandry": "2025-05-14 20:22:49 +0000",
       "mine_stone": "2025-05-14 20:10:28 +0000",
       "story": "2025-05-14 20:10:21 +0000"
@@ -346,6 +354,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-17 23:42:57 +0000",
+      "minecraft:skeleton": "2025-05-17 23:18:11 +0000",
       "minecraft:zombie": "2025-05-14 20:10:48 +0000"
     },
     "done": false
@@ -372,7 +382,10 @@
     "criteria": {
       "cooked_porkchop": "2025-05-17 23:09:30 +0000",
       "apple": "2025-05-17 00:45:51 +0000",
+      "bread": "2025-05-17 23:43:27 +0000",
       "rotten_flesh": "2025-05-14 20:22:48 +0000",
+      "cooked_mutton": "2025-05-17 23:45:01 +0000",
+      "mushroom_stew": "2025-05-17 23:41:13 +0000",
       "cooked_beef": "2025-05-17 23:04:33 +0000"
     },
     "done": false
@@ -1547,6 +1560,24 @@
     },
     "done": true
   },
+  "roguecraft:triggers/equipment_upgrades/golden/chestplate": {
+    "criteria": {
+      "requirement": "2025-05-17 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-17 23:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-05-17 23:04:01 +0000"
@@ -1559,9 +1590,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-17 23:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-17 23:16:07 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:roguecraft/skillpoint_1": {
+    "criteria": {
+      "s4": "2025-05-17 23:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-17 23:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-17 23:38:12 +0000"
     },
     "done": true
   },
@@ -1571,9 +1638,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-17 23:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-17 23:42:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-05-17 23:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-17 23:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-17 23:45:33 +0000"
     },
     "done": true
   },
@@ -1589,9 +1698,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-17 23:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-17 23:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-17 23:26:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-17 23:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-17 23:36:23 +0000"
     },
     "done": true
   },
@@ -1607,9 +1746,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-17 23:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-17 23:40:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-17 23:04:01 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:triggers/equipment_upgrades/bow/crossbow": {
+    "criteria": {
+      "requirement": "2025-05-17 23:40:54 +0000"
     },
     "done": true
   },
@@ -1619,15 +1776,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:36:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-17 23:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-17 23:45:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-05-17 23:16:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-17 23:36:29 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:triggers/equipment_upgrades/bow/bow": {
+    "criteria": {
+      "requirement": "2025-05-17 23:40:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_the_recipe": "2025-05-17 23:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-17 23:26:39 +0000"
     },
     "done": true
   },
