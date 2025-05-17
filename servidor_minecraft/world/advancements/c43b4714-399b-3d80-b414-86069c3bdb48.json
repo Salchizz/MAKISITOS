@@ -39,6 +39,7 @@
     "criteria": {
       "roguecraft": "2025-05-14 20:07:29 +0000",
       "challenges": "2025-05-14 20:23:46 +0000",
+      "lil_guy": "2025-05-17 01:03:55 +0000",
       "progression": "2025-05-14 20:09:15 +0000",
       "infinite_garden": "2025-05-14 20:24:03 +0000"
     },
@@ -1484,6 +1485,12 @@
     },
     "done": true
   },
+  "roguecraft:challenges/lil_guy": {
+    "criteria": {
+      "granted": "2025-05-17 01:03:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-17 01:00:55 +0000"
@@ -1499,6 +1506,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-05-17 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-17 01:06:05 +0000"
     },
     "done": true
   },
@@ -1523,6 +1536,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-17 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-17 01:06:05 +0000"
     },
     "done": true
   },

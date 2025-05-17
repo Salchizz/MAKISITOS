@@ -39,6 +39,7 @@
     "criteria": {
       "roguecraft": "2025-05-14 19:56:16 +0000",
       "challenges": "2025-05-14 20:43:27 +0000",
+      "lil_guy": "2025-05-17 01:02:14 +0000",
       "keep_inventory": "2025-05-16 03:24:34 +0000",
       "progression": "2025-05-14 20:09:14 +0000",
       "infinite_garden": "2025-05-16 03:23:59 +0000"
@@ -99,7 +100,8 @@
       "minecraft:frozen_river": "2025-05-14 21:13:38 +0000",
       "minecraft:swamp": "2025-05-17 00:55:45 +0000",
       "minecraft:meadow": "2025-05-14 21:02:25 +0000",
-      "minecraft:savanna": "2025-05-17 00:27:55 +0000"
+      "minecraft:savanna": "2025-05-17 00:27:55 +0000",
+      "minecraft:plains": "2025-05-17 00:59:39 +0000"
     },
     "done": false
   },
@@ -1320,6 +1322,12 @@
     },
     "done": true
   },
+  "roguecraft:challenges/lil_guy": {
+    "criteria": {
+      "granted": "2025-05-17 01:02:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-05-17 00:31:51 +0000"
@@ -1350,9 +1358,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-05-17 00:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-05-17 00:59:18 +0000"
     },
     "done": true
   },
@@ -1386,6 +1412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-17 01:06:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-17 00:34:54 +0000"
@@ -1395,6 +1427,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-05-17 00:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-05-17 00:59:18 +0000"
     },
     "done": true
   },
@@ -1452,9 +1490,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-17 00:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:05:56 +0000"
     },
     "done": true
   },
@@ -1518,6 +1568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-17 00:57:19 +0000"
@@ -1527,6 +1583,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-17 00:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:05:56 +0000"
     },
     "done": true
   },
@@ -1578,6 +1640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:05:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-17 00:34:54 +0000"
@@ -1605,6 +1673,18 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-05-17 00:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-17 01:05:56 +0000"
     },
     "done": true
   },
@@ -1653,6 +1733,12 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-05-17 00:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-17 01:06:21 +0000"
     },
     "done": true
   },
