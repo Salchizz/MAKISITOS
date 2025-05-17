@@ -41,3 +41,33 @@
 [00:18:38] [User Authenticator #0/INFO]: UUID of player Salchipoio is 4fab9cda-6b46-3e5a-a85c-af2702f9c51a
 [00:18:40] [Server thread/INFO]:  Salchipoio joined the game
 [00:18:40] [Server thread/INFO]: Salchipoio[/127.192.2.104:34667] logged in with entity id 537 at ([world_roguecraft_infinite_garden]-21.32974071076084, 63.0, 2.3740616950205538)
+[00:25:34] [User Authenticator #1/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
+[00:25:37] [Server thread/INFO]: coca_cola_humana joined the game
+[00:25:37] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:53167] logged in with entity id 9140 at ([world]99923.84592797476, 66.0, 100102.29514630919)
+[00:25:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Salchipoio> mano
+[00:26:57] [Async Chat Thread - #1/INFO]: [Not Secure] <coca_cola_humana> q
+[00:27:21] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [17, -15], pos: MutableBlockPos{x=280, y=64, z=-228}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / roguecraft:flower_infinite_garden]
+[00:27:21] [Paper Common Worker #0/ERROR]: Detected setBlock in a far chunk [16, -18], pos: MutableBlockPos{x=271, y=65, z=-286}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / roguecraft:flower_infinite_garden]
+[00:28:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3880ms or 77 ticks behind
+[00:28:06] [Server thread/WARN]: Salchipoio moved too quickly! 9.510216944254353,0.0,-5.165765428333543
+[00:29:09] [Server thread/INFO]: coca_cola_humana lost connection: Disconnected
+[00:29:09] [Server thread/INFO]: coca_cola_humana left the game
+[00:29:10] [Server thread/INFO]: Salchipoio issued server command: /gamemode survival coca_cola_humana
+[00:29:18] [User Authenticator #2/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
+[00:29:20] [Server thread/INFO]: coca_cola_humana joined the game
+[00:29:20] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:49081] logged in with entity id 11319 at ([world]-100008.88340295598, 68.0, 99997.86944840309)
+[00:29:22] [Server thread/INFO]: Salchipoio issued server command: /gamemode survival coca_cola_humana
+[00:29:24] [Server thread/INFO]: Salchipoio issued server command: /gamemode survival coca_cola_humana
+[00:29:55] [Server thread/INFO]: coca_cola_humana lost connection: Disconnected
+[00:29:55] [Server thread/INFO]: coca_cola_humana left the game
+[00:30:04] [Server thread/INFO]: No player was found
+[00:30:11] [Server thread/INFO]: Salchipoio issued server command: /gamemode survival coca_cola_humana
+[00:30:16] [User Authenticator #2/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
+[00:30:18] [Server thread/INFO]: coca_cola_humana joined the game
+[00:30:18] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:51083] logged in with entity id 11421 at ([world]-100009.62915694836, 67.0, 99989.26567990481)
+[00:30:28] [Server thread/INFO]: Salchipoio issued server command: /gamemode survival coca_cola_humana
+[00:32:22] [Server thread/INFO]: coca_cola_humana has made the advancement [Minecraft: Trial(s) Edition]
+[00:32:23] [Server thread/INFO]: Salchipoio has made the advancement [Minecraft: Trial(s) Edition]
+[00:32:55] [Server thread/INFO]: death.attack.leech_trap
+[00:32:55] [Server thread/INFO]: death.attack.leech_trap
+[00:33:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3048ms or 60 ticks behind
