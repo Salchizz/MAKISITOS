@@ -370,6 +370,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-17 23:09:30 +0000",
       "apple": "2025-05-17 00:45:51 +0000",
       "rotten_flesh": "2025-05-14 20:22:48 +0000",
       "cooked_beef": "2025-05-17 23:04:33 +0000"
@@ -1558,6 +1559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-17 23:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-17 23:04:01 +0000"
@@ -1570,6 +1577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-05-17 23:16:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-17 23:04:01 +0000"
@@ -1579,6 +1592,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-17 23:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-05-17 23:16:07 +0000"
     },
     "done": true
   },
@@ -1597,6 +1616,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-17 23:04:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-05-17 23:16:07 +0000"
     },
     "done": true
   },
