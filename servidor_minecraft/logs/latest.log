@@ -1,51 +1,43 @@
-[02:49:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:49:29] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:gameplay/piglin_bartering}.pools[0].entries[18].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[02:49:31] [ServerMain/INFO]: Loaded 1249 recipes
-[02:49:31] [ServerMain/INFO]: Loaded 1594 advancements
-[02:49:32] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:49:32] [Server thread/INFO]: Loading properties
-[02:49:32] [Server thread/INFO]: Default game type: SURVIVAL
-[02:49:32] [Server thread/INFO]: Generating keypair
-[02:49:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:49:32] [Server thread/INFO]: Using epoll channel type
-[02:49:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:49:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:49:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:49:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:49:32] [Server thread/INFO]: Preparing level "world"
-[02:49:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:49:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:49:33] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[02:49:33] [Server thread/INFO]: Time elapsed: 865 ms
-[02:49:33] [Server thread/INFO]: Done (1.185s)! For help, type "help"
-[02:49:53] [Server thread/INFO]: Salchipoio[/127.192.2.104:57571] logged in with entity id 544 at (99920.97794679298, 66.0, 100103.59956641811)
-[02:49:53] [Server thread/INFO]: Salchipoio joined the game
-[02:50:48] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:50:48] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
-[02:51:24] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:51:24] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1[D[D[D[D[D[D[D[C[C<--[HERE]
-[02:52:21] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:52:21] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
-[02:52:32] [Server thread/INFO]: Made Salchipoio a server operator
-[02:52:35] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:52:35] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
-[02:53:12] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:53:12] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"knockback",lvl:20s}]} 1<--[HERE]
-[02:53:19] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:53:19] [Server thread/INFO]: ...raft:stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"knockback",lvl:20s}]} 1<--[HERE]
-[02:54:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:54:07] [Server thread/INFO]: 'give Salchipoio stick{display:{Name:"{\\"text\\":\\"manolito\\"}"},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1'<--[HERE]
-[02:54:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:54:49] [Server thread/INFO]: client.send('give Salchipoio stick{Enchantments:[{id:"minecraft:knockback",lvl:2}]} 1')<--[HERE]
-[02:55:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:55:36] [Server thread/INFO]: client.send('give Salchipoio stick 1')<--[HERE]
-[02:55:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:55:41] [Server thread/INFO]: client.send('enchant Salchipoio knockback 2')<--[HERE]
-[02:56:17] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:56:17] [Server thread/INFO]: ...poio stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]}<--[HERE]
-[02:57:34] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:57:34] [Server thread/INFO]: ...poio stick{display:{Name:"{\"text\":\"manolito\"}"},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
-[02:58:04] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:58:04] [Server thread/INFO]: ...poio stick{display:{Name:"{\"text\":\"manolito\"}"},Enchantments:[{id:"minecraft:knockback",lvl:20}]} 1<--[HERE]
-[02:58:56] [Server thread/INFO]: Expected whitespace to end one argument, but found trailing data
-[02:58:56] [Server thread/INFO]: ...poio stick{display:{Name:'{"text":"manolito"}'},Enchantments:[{id:"minecraft:knockback",lvl:20}]}<--[HERE]
+[00:13:16] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
+[00:13:16] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[00:13:17] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:13:17] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[00:13:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:13:26] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:gameplay/piglin_bartering}.pools[0].entries[18].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[00:13:27] [ServerMain/INFO]: Loaded 1249 recipes
+[00:13:28] [ServerMain/INFO]: Loaded 1594 advancements
+[00:13:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[00:13:28] [Server thread/INFO]: Loading properties
+[00:13:28] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[00:13:29] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:13:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:13:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:13:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[00:13:31] [Server thread/INFO]: Default game type: SURVIVAL
+[00:13:31] [Server thread/INFO]: Generating keypair
+[00:13:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:13:31] [Server thread/INFO]: Using epoll channel type
+[00:13:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:13:31] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:13:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:13:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:13:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:13:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:13:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:13:31] [Server thread/INFO]: Preparing level "world"
+[00:13:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:13:33] [Server thread/INFO]: Time elapsed: 1436 ms
+[00:13:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:13:33] [Server thread/INFO]: Time elapsed: 318 ms
+[00:13:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:13:33] [Server thread/INFO]: Time elapsed: 279 ms
+[00:13:33] [Server thread/INFO]: Preparing start region for dimension roguecraft:infinite_garden
+[00:13:34] [Server thread/INFO]: Time elapsed: 359 ms
+[00:13:34] [Server thread/INFO]: [spark] Starting background profiler...
+[00:13:35] [Server thread/INFO]: Done preparing level "world" (4.682s)
+[00:13:35] [Server thread/INFO]: Running delayed init tasks
+[00:13:35] [Server thread/INFO]: Done (20.328s)! For help, type "help"
+[00:13:35] [Server thread/INFO]: Timings Reset
+[00:18:38] [User Authenticator #0/INFO]: UUID of player Salchipoio is 4fab9cda-6b46-3e5a-a85c-af2702f9c51a
+[00:18:40] [Server thread/INFO]:  Salchipoio joined the game
+[00:18:40] [Server thread/INFO]: Salchipoio[/127.192.2.104:34667] logged in with entity id 537 at ([world_roguecraft_infinite_garden]-21.32974071076084, 63.0, 2.3740616950205538)
