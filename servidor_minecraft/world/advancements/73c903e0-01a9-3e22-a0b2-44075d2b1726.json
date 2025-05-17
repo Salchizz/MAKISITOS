@@ -1,25 +1,7 @@
 {
-  "roguecraft:roguecraft/root": {
-    "criteria": {
-      "granted": "2025-05-15 22:14:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_the_recipe": "2025-05-15 22:14:03 +0000"
-    },
-    "done": true
-  },
   "roguecraft:triggers/class_scroll_cooldown": {
     "criteria": {
       "tick": "2025-05-15 22:11:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-05-15 22:15:10 +0000"
     },
     "done": true
   },
@@ -41,11 +23,38 @@
     },
     "done": true
   },
-  "roguecraft:challenges/all_vanilla": {
+  "roguecraft:triggers/scroll_cooldown": {
     "criteria": {
-      "adventure": "2025-05-15 22:15:17 +0000"
+      "tick": "2025-05-15 22:11:01 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:roguecraft/root": {
+    "criteria": {
+      "granted": "2025-05-15 22:14:00 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:challenges/truest_completion": {
+    "criteria": {
+      "roguecraft": "2025-05-15 22:14:00 +0000",
+      "challenges": "2025-05-15 22:15:22 +0000",
+      "progression": "2025-05-15 22:14:03 +0000"
     },
     "done": false
+  },
+  "roguecraft:roguecraft/true_completion": {
+    "criteria": {
+      "roguecraft": "2025-05-15 22:14:00 +0000",
+      "progression": "2025-05-15 22:14:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_the_recipe": "2025-05-15 22:14:03 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
@@ -65,27 +74,9 @@
     },
     "done": true
   },
-  "roguecraft:challenges/root": {
-    "criteria": {
-      "granted": "2025-05-15 22:15:22 +0000"
-    },
-    "done": true
-  },
-  "roguecraft:triggers/scroll_cooldown": {
-    "criteria": {
-      "tick": "2025-05-15 22:11:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-05-15 22:14:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-05-15 22:15:17 +0000"
     },
     "done": true
   },
@@ -97,24 +88,33 @@
     },
     "done": false
   },
-  "roguecraft:challenges/truest_completion": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "roguecraft": "2025-05-15 22:14:00 +0000",
-      "challenges": "2025-05-15 22:15:22 +0000",
-      "progression": "2025-05-15 22:14:03 +0000"
+      "has_snowball": "2025-05-15 22:15:10 +0000"
     },
-    "done": false
-  },
-  "roguecraft:roguecraft/true_completion": {
-    "criteria": {
-      "roguecraft": "2025-05-15 22:14:00 +0000",
-      "progression": "2025-05-15 22:14:03 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-05-15 22:15:10 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:challenges/all_vanilla": {
+    "criteria": {
+      "adventure": "2025-05-15 22:15:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-15 22:15:17 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:challenges/root": {
+    "criteria": {
+      "granted": "2025-05-15 22:15:22 +0000"
     },
     "done": true
   },
