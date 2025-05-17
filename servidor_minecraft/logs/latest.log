@@ -75,3 +75,15 @@
 [00:38:19] [Server thread/INFO]: Salchipoio has reached the goal [Zombie Doctor]
 [00:46:04] [Server thread/INFO]: coca_cola_humana was slain by Zombie
 [00:50:01] [Server thread/INFO]: coca_cola_humana has made the advancement [Acquire Hardware]
+[00:54:38] [Server thread/INFO]: coca_cola_humana was slain by Zombie
+[00:54:56] [Server thread/INFO]: Salchipoio was slain by Zombie
+[00:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2871ms or 57 ticks behind
+[00:56:12] [Server thread/INFO]: coca_cola_humana lost connection: Disconnected
+[00:56:12] [Server thread/INFO]: coca_cola_humana left the game
+[00:56:23] [User Authenticator #3/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
+[00:56:25] [Server thread/INFO]: coca_cola_humana joined the game
+[00:56:25] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:56499] logged in with entity id 18613 at ([world]-199987.6427078256, 62.0, 0.699999988079071)
+[00:58:42] [Server thread/INFO]: coca_cola_humana has made the advancement [Enchanter]
+[00:59:18] [Async Chat Thread - #3/INFO]: [Not Secure] <coca_cola_humana> agarra
+[01:02:13] [Server thread/INFO]: Salchipoio has completed the challenge [roguecraft.advancement.name.lil_guy]
+[01:02:31] [Async Chat Thread - #5/INFO]: [Not Secure] <coca_cola_humana> ?
