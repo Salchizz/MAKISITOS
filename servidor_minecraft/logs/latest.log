@@ -48,3 +48,12 @@
 [22:42:54] [Server thread/INFO]: Salchipoio[/127.192.2.104:34651] logged in with entity id 1033 at ([world]-200148.0048479119, 67.0, -78.07564646610427)
 [22:43:01] [Server thread/INFO]: Salchipoio lost connection: Disconnected
 [22:43:01] [Server thread/INFO]: Salchipoio left the game
+[23:01:44] [User Authenticator #1/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
+[23:01:47] [Server thread/INFO]: coca_cola_humana joined the game
+[23:01:47] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:45345] logged in with entity id 1265 at ([world]-200009.592939486, 64.0, 18.254312280625932)
+[23:01:53] [User Authenticator #1/INFO]: UUID of player Salchipoio is 4fab9cda-6b46-3e5a-a85c-af2702f9c51a
+[23:01:54] [Server thread/INFO]: Salchipoio joined the game
+[23:01:54] [Server thread/INFO]: Salchipoio[/127.192.2.104:42599] logged in with entity id 1407 at ([world]-200155.36369325256, 68.0, -75.32852789191118)
+[23:02:10] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[23:02:10] [Server thread/INFO]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
+[23:10:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Salchipoio> XD
