@@ -105,6 +105,7 @@
       "minecraft:eroded_badlands": "2025-05-14 20:52:24 +0000",
       "minecraft:frozen_river": "2025-05-14 21:13:38 +0000",
       "minecraft:jungle": "2025-05-17 23:59:52 +0000",
+      "minecraft:cherry_grove": "2025-05-18 00:42:08 +0000",
       "minecraft:swamp": "2025-05-17 00:55:45 +0000",
       "minecraft:meadow": "2025-05-14 21:02:25 +0000",
       "minecraft:birch_forest": "2025-05-17 23:39:39 +0000",
@@ -193,7 +194,8 @@
       "shoot_arrow": "2025-05-17 23:47:00 +0000",
       "brew_potion": "2025-05-17 00:34:11 +0000",
       "story": "2025-05-14 20:20:45 +0000",
-      "iron_tools": "2025-05-18 00:21:16 +0000"
+      "iron_tools": "2025-05-18 00:21:16 +0000",
+      "obtain_armor": "2025-05-18 00:45:36 +0000"
     },
     "done": false
   },
@@ -1799,6 +1801,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-18 00:42:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-05-18 00:00:51 +0000"
@@ -1808,6 +1816,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 00:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-18 00:45:36 +0000"
     },
     "done": true
   },
@@ -1832,6 +1846,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-18 00:46:29 +0000"
     },
     "done": true
   },
@@ -1913,6 +1933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-18 00:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-05-17 23:38:12 +0000"
@@ -1928,6 +1954,18 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-05-17 23:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-18 00:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-18 00:46:29 +0000"
     },
     "done": true
   },
@@ -1949,6 +1987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-18 00:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-05-18 00:29:50 +0000"
@@ -1967,9 +2011,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-18 00:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 00:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 00:42:20 +0000"
     },
     "done": true
   },
@@ -1988,6 +2044,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-18 00:42:19 +0000"
     },
     "done": true
   },
@@ -2123,6 +2185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-18 00:46:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
@@ -2156,6 +2224,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-18 00:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-18 00:42:19 +0000"
     },
     "done": true
   },
