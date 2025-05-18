@@ -182,6 +182,7 @@
       "kill_a_mob": "2025-05-14 21:11:00 +0000",
       "cure_zombie_villager": "2025-05-17 00:38:19 +0000",
       "smelt_iron": "2025-05-14 20:19:30 +0000",
+      "shoot_arrow": "2025-05-17 23:47:00 +0000",
       "voluntary_exile": "2025-05-17 23:44:36 +0000",
       "husbandry": "2025-05-14 21:14:39 +0000",
       "brew_potion": "2025-05-17 00:34:11 +0000",
@@ -891,7 +892,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2025-05-17 23:50:27 +0000",
+      "bread": "2025-05-17 23:55:42 +0000",
       "cooked_rabbit": "2025-05-17 00:49:06 +0000",
+      "cooked_chicken": "2025-05-17 23:48:55 +0000",
       "rotten_flesh": "2025-05-14 21:14:38 +0000",
       "cooked_mutton": "2025-05-17 23:27:08 +0000",
       "mushroom_stew": "2025-05-17 23:27:18 +0000",
@@ -1782,6 +1786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-17 23:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
@@ -1794,6 +1804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-17 23:52:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
@@ -1803,6 +1819,18 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-17 23:46:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-17 23:53:19 +0000"
     },
     "done": true
   },
@@ -1857,6 +1885,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-05-17 23:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-17 23:52:24 +0000"
     },
     "done": true
   },

@@ -80,3 +80,12 @@
 [23:51:33] [User Authenticator #2/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
 [23:51:35] [Server thread/INFO]: coca_cola_humana joined the game
 [23:51:35] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:36389] logged in with entity id 12886 at ([world]-199424.1684774686, 81.40513222947028, -200636.80125500468)
+[23:52:05] [Server thread/INFO]: coca_cola_humana lost connection: Disconnected
+[23:52:05] [Server thread/INFO]: coca_cola_humana left the game
+[23:52:29] [User Authenticator #2/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
+[23:52:30] [Server thread/INFO]: coca_cola_humana joined the game
+[23:52:30] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:54201] logged in with entity id 13055 at ([world]-199483.5220508024, 76.16111283152777, -200581.71401111112)
+[23:55:51] [Server thread/INFO]: Villager Villager['Nitwit'/12004, uuid='57b206f6-1c4f-4fd0-b95e-f594b66b5d9a', l='ServerLevel[world]', x=-199408.12, y=64.00, z=-200647.56, cpos=[-12464, -12541], tl=7120, v=true] died, message: 'Nitwit was slain by Zombie'
+[23:58:00] [Server thread/INFO]: Salchipoio was slain by Vindicator
+[23:59:03] [Server thread/INFO]: Villager Villager['Villager'/12003, uuid='90c6d27e-be81-4efd-ac62-64de89ab5973', l='ServerLevel[world]', x=-199506.13, y=68.00, z=-200593.59, cpos=[-12470, -12538], tl=10962, v=true] died, message: 'Villager was slain by Vindicator'
+[23:59:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3359ms or 67 ticks behind
