@@ -1,91 +1,13 @@
-[22:41:28] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu120.04; Ubuntu null) on Linux 6.8.0-1027-azure (amd64)
-[22:41:28] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[22:41:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[22:41:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[22:41:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:41:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:gameplay/piglin_bartering}.pools[0].entries[18].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[22:41:39] [ServerMain/INFO]: Loaded 1249 recipes
-[22:41:39] [ServerMain/INFO]: Loaded 1594 advancements
-[22:41:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:41:40] [Server thread/INFO]: Loading properties
-[22:41:40] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[22:41:41] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[22:41:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:41:41] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:41:42] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[22:41:42] [Server thread/INFO]: Default game type: SURVIVAL
-[22:41:42] [Server thread/INFO]: Generating keypair
-[22:41:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:41:43] [Server thread/INFO]: Using epoll channel type
-[22:41:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:41:43] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[22:41:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:41:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:41:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:41:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:41:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:41:43] [Server thread/INFO]: Preparing level "world"
-[22:41:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:41:45] [Server thread/INFO]: Time elapsed: 1484 ms
-[22:41:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:41:46] [Server thread/INFO]: Time elapsed: 426 ms
-[22:41:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:41:46] [Server thread/INFO]: Time elapsed: 169 ms
-[22:41:46] [Server thread/INFO]: Preparing start region for dimension roguecraft:infinite_garden
-[22:41:46] [Server thread/INFO]: Time elapsed: 256 ms
-[22:41:46] [Server thread/INFO]: [spark] Starting background profiler...
-[22:41:46] [Server thread/INFO]: Done preparing level "world" (3.556s)
-[22:41:46] [Server thread/INFO]: Running delayed init tasks
-[22:41:46] [Server thread/INFO]: Done (19.924s)! For help, type "help"
-[22:41:46] [Server thread/INFO]: Timings Reset
-[22:41:58] [User Authenticator #0/INFO]: UUID of player MimiChan is 73c903e0-01a9-3e22-a0b2-44075d2b1726
-[22:42:00] [Server thread/INFO]:  MimiChan joined the game
-[22:42:00] [Server thread/INFO]: MimiChan[/127.192.2.104:48101] logged in with entity id 517 at ([world_roguecraft_infinite_garden]-25.02446473234862, 64.0, 17.30000001192093)
-[22:42:11] [Server thread/INFO]: MimiChan lost connection: Disconnected
-[22:42:11] [Server thread/INFO]:  MimiChan left the game
-[22:42:52] [User Authenticator #0/INFO]: UUID of player Salchipoio is 4fab9cda-6b46-3e5a-a85c-af2702f9c51a
-[22:42:54] [Server thread/INFO]: Salchipoio joined the game
-[22:42:54] [Server thread/INFO]: Salchipoio[/127.192.2.104:34651] logged in with entity id 1033 at ([world]-200148.0048479119, 67.0, -78.07564646610427)
-[22:43:01] [Server thread/INFO]: Salchipoio lost connection: Disconnected
-[22:43:01] [Server thread/INFO]: Salchipoio left the game
-[23:01:44] [User Authenticator #1/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
-[23:01:47] [Server thread/INFO]: coca_cola_humana joined the game
-[23:01:47] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:45345] logged in with entity id 1265 at ([world]-200009.592939486, 64.0, 18.254312280625932)
-[23:01:53] [User Authenticator #1/INFO]: UUID of player Salchipoio is 4fab9cda-6b46-3e5a-a85c-af2702f9c51a
-[23:01:54] [Server thread/INFO]: Salchipoio joined the game
-[23:01:54] [Server thread/INFO]: Salchipoio[/127.192.2.104:42599] logged in with entity id 1407 at ([world]-200155.36369325256, 68.0, -75.32852789191118)
-[23:02:10] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
-[23:02:10] [Server thread/INFO]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
-[23:10:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Salchipoio> XD
-[23:11:52] [Server thread/INFO]: death.attack.damage_sphere
-[23:19:46] [Server thread/INFO]: death.attack.shockbolt
-[23:20:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3031ms or 60 ticks behind
-[23:20:56] [Paper Common Worker #0/ERROR]: Failed to fetch mob spawner entity at (-200031, -3, -199798)
-[23:26:34] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana Salchipoio
-[23:26:34] [Server thread/INFO]: [Salchipoio: Teleported coca_cola_humana to Salchipoio]
-[23:28:11] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
-[23:28:11] [Server thread/INFO]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
-[23:31:42] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_bars 18
-[23:31:42] [Server thread/INFO]: [Salchipoio: Gave 18 [Iron Bars] to Salchipoio]
-[23:35:57] [Server thread/WARN]: Salchipoio moved wrongly!
-[23:38:12] [Server thread/INFO]: Salchipoio has made the advancement [Sweet Dreams]
-[23:38:12] [Server thread/INFO]: coca_cola_humana has made the advancement [Sweet Dreams]
-[23:42:57] [Server thread/INFO]: coca_cola_humana has made the advancement [Voluntary Exile]
-[23:44:36] [Server thread/INFO]: Salchipoio has made the advancement [Voluntary Exile]
-[23:44:46] [Server thread/INFO]: coca_cola_humana has made the advancement [roguecraft.advancement.name.skillpoint_1]
-[23:46:59] [Server thread/INFO]: Salchipoio has made the advancement [Take Aim]
-[23:49:05] [Server thread/INFO]: coca_cola_humana was shot by Pillager
-[23:51:02] [Server thread/INFO]: coca_cola_humana lost connection: Disconnected
-[23:51:02] [Server thread/INFO]: coca_cola_humana left the game
-[23:51:33] [User Authenticator #2/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
-[23:51:35] [Server thread/INFO]: coca_cola_humana joined the game
-[23:51:35] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:36389] logged in with entity id 12886 at ([world]-199424.1684774686, 81.40513222947028, -200636.80125500468)
-[23:52:05] [Server thread/INFO]: coca_cola_humana lost connection: Disconnected
-[23:52:05] [Server thread/INFO]: coca_cola_humana left the game
-[23:52:29] [User Authenticator #2/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
-[23:52:30] [Server thread/INFO]: coca_cola_humana joined the game
-[23:52:30] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:54201] logged in with entity id 13055 at ([world]-199483.5220508024, 76.16111283152777, -200581.71401111112)
-[23:55:51] [Server thread/INFO]: Villager Villager['Nitwit'/12004, uuid='57b206f6-1c4f-4fd0-b95e-f594b66b5d9a', l='ServerLevel[world]', x=-199408.12, y=64.00, z=-200647.56, cpos=[-12464, -12541], tl=7120, v=true] died, message: 'Nitwit was slain by Zombie'
-[23:58:00] [Server thread/INFO]: Salchipoio was slain by Vindicator
-[23:59:03] [Server thread/INFO]: Villager Villager['Villager'/12003, uuid='90c6d27e-be81-4efd-ac62-64de89ab5973', l='ServerLevel[world]', x=-199506.13, y=68.00, z=-200593.59, cpos=[-12470, -12538], tl=10962, v=true] died, message: 'Villager was slain by Vindicator'
-[23:59:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3359ms or 67 ticks behind
+[00:07:18] [Server thread/INFO]: Salchipoio issued server command: /locate structure minecraft:jungle_pyramid
+[00:07:19] [Server thread/INFO]: Locating element minecraft:jungle_pyramid took 828 ms
+[00:07:23] [Server thread/INFO]: Salchipoio issued server command: /locate structure minecraft:jungle_pyramid
+[00:07:23] [Server thread/INFO]: Locating element minecraft:jungle_pyramid took 0 ms
+[00:07:26] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_bars 18
+[00:07:26] [Server thread/INFO]: [Salchipoio: Gave 18 [Iron Bars] to Salchipoio]
+[00:07:46] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_ingot 18
+[00:07:46] [Server thread/INFO]: [Salchipoio: Gave 18 [Iron Ingot] to Salchipoio]
+[00:08:12] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_
+[00:08:15] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_axe
+[00:08:15] [Server thread/INFO]: [Salchipoio: Gave 1 [Iron Axe] to Salchipoio]
+[00:08:17] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_axe
+[00:08:17] [Server thread/INFO]: [Salchipoio: Gave 1 [Iron Axe] to Salchipoio]

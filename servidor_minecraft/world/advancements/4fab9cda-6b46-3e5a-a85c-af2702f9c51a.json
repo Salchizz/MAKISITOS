@@ -88,6 +88,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-05-14 20:51:46 +0000",
+      "minecraft:savanna_plateau": "2025-05-18 00:06:05 +0000",
       "minecraft:beach": "2025-05-17 00:57:38 +0000",
       "minecraft:dark_forest": "2025-05-17 23:21:34 +0000",
       "minecraft:forest": "2025-05-16 03:52:15 +0000",
@@ -100,6 +101,7 @@
       "minecraft:old_growth_birch_forest": "2025-05-17 23:39:35 +0000",
       "minecraft:eroded_badlands": "2025-05-14 20:52:24 +0000",
       "minecraft:frozen_river": "2025-05-14 21:13:38 +0000",
+      "minecraft:jungle": "2025-05-17 23:59:52 +0000",
       "minecraft:swamp": "2025-05-17 00:55:45 +0000",
       "minecraft:meadow": "2025-05-14 21:02:25 +0000",
       "minecraft:birch_forest": "2025-05-17 23:39:39 +0000",
@@ -1786,6 +1788,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-18 00:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-05-18 00:08:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-05-17 23:52:24 +0000"
@@ -1876,6 +1890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-18 00:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-05-17 23:25:53 +0000"
@@ -1906,6 +1926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-18 00:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-17 23:46:37 +0000"
@@ -1921,6 +1947,12 @@
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-05-17 23:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-05-18 00:08:15 +0000"
     },
     "done": true
   },
