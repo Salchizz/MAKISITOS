@@ -260,6 +260,7 @@
       "plant_seed": "2025-05-18 00:24:12 +0000",
       "voluntary_exile": "2025-05-17 23:42:57 +0000",
       "husbandry": "2025-05-14 20:22:49 +0000",
+      "wax_off": "2025-05-18 02:06:32 +0000",
       "mine_stone": "2025-05-14 20:10:28 +0000",
       "adventure": "2025-05-14 20:10:49 +0000",
       "minecraft_trials_edition": "2025-05-17 00:32:23 +0000",
@@ -267,6 +268,7 @@
       "trade": "2025-05-18 00:55:28 +0000",
       "enchant_item": "2025-05-17 00:58:43 +0000",
       "shoot_arrow": "2025-05-18 01:25:49 +0000",
+      "lighten_up": "2025-05-18 02:06:46 +0000",
       "mine_diamond": "2025-05-18 01:05:20 +0000",
       "tame_an_animal": "2025-05-18 00:50:12 +0000",
       "story": "2025-05-14 20:10:21 +0000",
@@ -401,6 +403,7 @@
       "bread": "2025-05-17 23:43:27 +0000",
       "rotten_flesh": "2025-05-14 20:22:48 +0000",
       "cooked_mutton": "2025-05-17 23:45:01 +0000",
+      "glow_berries": "2025-05-18 02:00:42 +0000",
       "mushroom_stew": "2025-05-17 23:41:13 +0000",
       "cooked_beef": "2025-05-17 23:04:33 +0000",
       "melon_slice": "2025-05-18 00:05:09 +0000",
@@ -2238,9 +2241,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
-      "has_egg": "2025-05-18 01:21:52 +0000"
+      "has_clay_block": "2025-05-18 01:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-18 01:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-18 01:10:59 +0000"
     },
     "done": true
   },
@@ -2256,21 +2271,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
-      "has_bone_meal": "2025-05-18 01:10:59 +0000"
+      "has_iron_boots": "2025-05-18 01:15:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_smelts_to_glass": "2025-05-18 01:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-18 01:25:48 +0000"
+      "has_carrot": "2025-05-18 01:16:34 +0000"
     },
     "done": true
   },
@@ -2280,9 +2289,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "bred": "2025-05-18 01:50:57 +0000"
+      "has_egg": "2025-05-18 01:21:52 +0000"
     },
     "done": true
   },
@@ -2292,33 +2301,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/terracotta": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_clay_block": "2025-05-18 01:07:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:chicken": "2025-05-18 01:50:57 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-05-18 01:16:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-05-18 01:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_boots": "2025-05-18 01:15:59 +0000"
+      "shot_arrow": "2025-05-18 01:25:48 +0000"
     },
     "done": true
   },
@@ -2334,9 +2319,171 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_bone_meal": "2025-05-18 01:10:59 +0000"
+      "has_smelts_to_glass": "2025-05-18 01:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-18 01:39:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-18 01:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-05-18 01:50:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-05-18 02:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-05-18 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2025-05-18 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-05-18 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2025-05-18 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2025-05-18 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2025-05-18 02:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lighten_up": {
+    "criteria": {
+      "lighten_up": "2025-05-18 02:06:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_bulb_from_honeycomb": {
+    "criteria": {
+      "has_copper_bulb": "2025-05-18 02:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-05-18 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-18 02:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-18 02:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-18 02:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-18 02:10:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-18 02:14:08 +0000"
     },
     "done": true
   },
