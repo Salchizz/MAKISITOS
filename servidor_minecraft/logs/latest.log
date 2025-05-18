@@ -86,3 +86,39 @@
 [01:40:20] [Server thread/INFO]: death.attack.shockbolt
 [01:40:44] [Server thread/INFO]: death.attack.shockbolt
 [01:40:48] [Server thread/INFO]: death.attack.shockbolt
+[01:45:06] [Server thread/INFO]: Salchipoio issued server command: /deop coca_cola_humana
+[01:45:06] [Server thread/INFO]: [ Salchipoio: Made coca_cola_humana no longer a server operator]
+[01:45:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4040ms or 80 ticks behind
+[01:45:25] [Server thread/WARN]: coca_cola_humana moved too quickly! 7.057677234290168,0.0,-8.25297064537881
+[01:45:46] [Server thread/INFO]:  Salchipoio was slain by  coca_cola_humana
+[01:46:19] [Server thread/INFO]:  coca_cola_humana was slain by Wolf
+[01:47:05] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:pointed_dripstone
+[01:47:05] [Server thread/INFO]: [ Salchipoio: Gave 1 [Pointed Dripstone] to  Salchipoio]
+[01:47:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2829ms or 56 ticks behind
+[01:47:47] [Server thread/WARN]: coca_cola_humana moved too quickly! -5.299783147464041,0.0,8.746302583575016
+[01:47:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[01:48:07] [Server thread/WARN]: coca_cola_humana moved too quickly! 10.621848367300117,0.12129684053920187,-5.799030417780159
+[01:48:43] [Server thread/INFO]: Salchipoio issued server command: /deop coca_cola_humana
+[01:48:54] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_pickaxe
+[01:48:54] [Server thread/INFO]: [ Salchipoio: Gave 1 [Iron Pickaxe] to  Salchipoio]
+[01:48:59] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_axe
+[01:48:59] [Server thread/INFO]: [ Salchipoio: Gave 1 [Iron Axe] to  Salchipoio]
+[01:49:09] [Server thread/INFO]: Salchipoio issued server command: /give Salchipoio minecraft:iron_sword
+[01:49:09] [Server thread/INFO]: [ Salchipoio: Gave 1 [Iron Sword] to  Salchipoio]
+[01:50:12] [Server thread/INFO]: Salchipoio issued server command: /effect give Salchipoio minecraft:speed infinite
+[01:50:12] [Server thread/INFO]: [ Salchipoio: Applied effect Speed to  Salchipoio]
+[01:50:21] [Server thread/INFO]: Salchipoio issued server command: /effect give Salchipoio minecraft:speed infinite 11
+[01:50:21] [Server thread/INFO]: [ Salchipoio: Applied effect Speed to  Salchipoio]
+[01:50:31] [Server thread/INFO]: Salchipoio issued server command: /effect give Salchipoio minecraft:speed infinite 3
+[01:50:31] [Server thread/INFO]: [ Salchipoio: Applied effect Speed to  Salchipoio]
+[01:50:35] [Server thread/INFO]: Salchipoio issued server command: /effect give Salchipoio minecraft:speed infinite 2
+[01:50:35] [Server thread/INFO]: [ Salchipoio: Applied effect Speed to  Salchipoio]
+[01:50:44] [Server thread/INFO]: Salchipoio issued server command: /effect clear Salchipoio minecraft:speed infinite 2
+[01:50:49] [Server thread/INFO]: Salchipoio issued server command: /effect clear Salchipoio minecraft:speed infinite
+[01:50:51] [Server thread/INFO]: Salchipoio issued server command: /effect clear Salchipoio minecraft:speed
+[01:50:51] [Server thread/INFO]: [ Salchipoio: Removed effect Speed from  Salchipoio]
+[01:50:57] [Server thread/INFO]:  coca_cola_humana has made the advancement [The Parrots and the Bats]
+[01:51:01] [Server thread/INFO]: Salchipoio issued server command: /effect clear Salchipoio minecraft:speed 2
+[01:51:05] [Server thread/INFO]: Salchipoio issued server command: /effect clear Salchipoio minecraft:speed
+[01:51:17] [Server thread/INFO]: Salchipoio issued server command: /effect give Salchipoio minecraft:speed infinite 2
+[01:51:17] [Server thread/INFO]: [ Salchipoio: Applied effect Speed to  Salchipoio]

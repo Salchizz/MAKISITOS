@@ -256,6 +256,7 @@
       "form_obsidian": "2025-05-18 00:38:58 +0000",
       "kill_a_mob": "2025-05-14 20:10:49 +0000",
       "smelt_iron": "2025-05-17 00:50:01 +0000",
+      "breed_an_animal": "2025-05-18 01:50:58 +0000",
       "plant_seed": "2025-05-18 00:24:12 +0000",
       "voluntary_exile": "2025-05-17 23:42:57 +0000",
       "husbandry": "2025-05-14 20:22:49 +0000",
@@ -2279,6 +2280,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-18 01:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-18 01:24:49 +0000"
@@ -2290,6 +2297,12 @@
       "has_clay_block": "2025-05-18 01:07:22 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-05-18 01:50:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
