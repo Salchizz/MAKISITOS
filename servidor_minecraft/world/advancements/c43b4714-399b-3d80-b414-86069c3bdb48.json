@@ -263,6 +263,7 @@
       "husbandry": "2025-05-14 20:22:49 +0000",
       "wax_off": "2025-05-18 02:06:32 +0000",
       "mine_stone": "2025-05-14 20:10:28 +0000",
+      "under_lock_and_key": "2025-05-18 02:29:14 +0000",
       "adventure": "2025-05-14 20:10:49 +0000",
       "minecraft_trials_edition": "2025-05-17 00:32:23 +0000",
       "sleep_in_bed": "2025-05-17 23:38:12 +0000",
@@ -2511,6 +2512,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper": {
     "criteria": {
       "has_waxed_copper_block": "2025-05-18 02:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-05-18 02:29:14 +0000"
     },
     "done": true
   },
