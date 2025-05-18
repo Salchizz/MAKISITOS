@@ -360,7 +360,9 @@
     "criteria": {
       "minecraft:pillager": "2025-05-17 23:42:57 +0000",
       "minecraft:skeleton": "2025-05-17 23:18:11 +0000",
-      "minecraft:zombie": "2025-05-14 20:10:48 +0000"
+      "minecraft:spider": "2025-05-18 00:32:39 +0000",
+      "minecraft:zombie": "2025-05-14 20:10:48 +0000",
+      "minecraft:creeper": "2025-05-18 00:32:24 +0000"
     },
     "done": false
   },
@@ -1847,6 +1849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-18 00:32:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-18 00:04:15 +0000"
@@ -1871,6 +1879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 00:28:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-05-18 00:00:47 +0000"
@@ -1883,9 +1897,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 00:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 00:28:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-18 00:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 00:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-18 00:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-18 00:28:52 +0000"
     },
     "done": true
   },

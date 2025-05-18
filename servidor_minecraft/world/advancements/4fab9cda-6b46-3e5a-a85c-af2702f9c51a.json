@@ -1823,6 +1823,12 @@
     },
     "done": true
   },
+  "roguecraft:triggers/equipment_upgrades/golden/boots": {
+    "criteria": {
+      "requirement": "2025-05-18 00:39:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
@@ -2144,6 +2150,12 @@
   "roguecraft:triggers/equipment_upgrades/bow/bow": {
     "criteria": {
       "requirement": "2025-05-17 23:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-18 00:39:26 +0000"
     },
     "done": true
   },
