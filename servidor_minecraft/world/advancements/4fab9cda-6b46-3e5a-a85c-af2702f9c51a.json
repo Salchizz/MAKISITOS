@@ -93,6 +93,7 @@
       "minecraft:dark_forest": "2025-05-17 23:21:34 +0000",
       "minecraft:forest": "2025-05-16 03:52:15 +0000",
       "minecraft:taiga": "2025-05-14 21:02:15 +0000",
+      "minecraft:sparse_jungle": "2025-05-18 00:20:36 +0000",
       "minecraft:river": "2025-05-16 03:52:03 +0000",
       "minecraft:snowy_plains": "2025-05-14 20:09:14 +0000",
       "minecraft:dripstone_caves": "2025-05-17 00:32:21 +0000",
@@ -178,18 +179,19 @@
   },
   "roguecraft:challenges/all_vanilla": {
     "criteria": {
-      "adventure": "2025-05-14 20:21:13 +0000",
-      "minecraft_trials_edition": "2025-05-17 00:32:24 +0000",
-      "sleep_in_bed": "2025-05-17 23:38:12 +0000",
       "kill_a_mob": "2025-05-14 21:11:00 +0000",
       "cure_zombie_villager": "2025-05-17 00:38:19 +0000",
       "smelt_iron": "2025-05-14 20:19:30 +0000",
-      "shoot_arrow": "2025-05-17 23:47:00 +0000",
       "voluntary_exile": "2025-05-17 23:44:36 +0000",
       "husbandry": "2025-05-14 21:14:39 +0000",
-      "brew_potion": "2025-05-17 00:34:11 +0000",
       "mine_stone": "2025-05-14 20:10:14 +0000",
-      "story": "2025-05-14 20:20:45 +0000"
+      "adventure": "2025-05-14 20:21:13 +0000",
+      "minecraft_trials_edition": "2025-05-17 00:32:24 +0000",
+      "sleep_in_bed": "2025-05-17 23:38:12 +0000",
+      "shoot_arrow": "2025-05-17 23:47:00 +0000",
+      "brew_potion": "2025-05-17 00:34:11 +0000",
+      "story": "2025-05-14 20:20:45 +0000",
+      "iron_tools": "2025-05-18 00:21:16 +0000"
     },
     "done": false
   },
@@ -902,6 +904,7 @@
       "cooked_mutton": "2025-05-17 23:27:08 +0000",
       "mushroom_stew": "2025-05-17 23:27:18 +0000",
       "cooked_beef": "2025-05-17 23:04:42 +0000",
+      "melon_slice": "2025-05-18 00:14:01 +0000",
       "carrot": "2025-05-17 00:47:32 +0000"
     },
     "done": false
@@ -1809,6 +1812,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-18 00:21:15 +0000"
     },
     "done": true
   },
