@@ -267,7 +267,8 @@
       "enchant_item": "2025-05-17 00:58:43 +0000",
       "mine_diamond": "2025-05-18 01:05:20 +0000",
       "tame_an_animal": "2025-05-18 00:50:12 +0000",
-      "story": "2025-05-14 20:10:21 +0000"
+      "story": "2025-05-14 20:10:21 +0000",
+      "obtain_armor": "2025-05-18 01:16:00 +0000"
     },
     "done": false
   },
@@ -2232,15 +2233,45 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-18 01:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2025-05-18 01:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-18 01:10:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-18 01:19:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-05-18 01:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-18 01:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2025-05-18 01:15:59 +0000"
     },
     "done": true
   },

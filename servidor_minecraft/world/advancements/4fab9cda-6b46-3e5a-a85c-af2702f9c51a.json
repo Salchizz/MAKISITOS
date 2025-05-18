@@ -191,6 +191,7 @@
       "adventure": "2025-05-14 20:21:13 +0000",
       "minecraft_trials_edition": "2025-05-17 00:32:24 +0000",
       "sleep_in_bed": "2025-05-17 23:38:12 +0000",
+      "tactical_fishing": "2025-05-18 01:14:06 +0000",
       "shoot_arrow": "2025-05-17 23:47:00 +0000",
       "mine_diamond": "2025-05-18 01:01:44 +0000",
       "brew_potion": "2025-05-17 00:34:11 +0000",
@@ -792,6 +793,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-17 23:41:06 +0000",
       "minecraft:skeleton": "2025-05-14 21:12:16 +0000",
+      "minecraft:spider": "2025-05-18 01:21:59 +0000",
       "minecraft:zombie": "2025-05-14 21:11:00 +0000",
       "minecraft:creeper": "2025-05-17 23:35:49 +0000"
     },
@@ -901,6 +903,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-18 01:21:53 +0000",
       "mutton": "2025-05-17 23:50:27 +0000",
       "bread": "2025-05-17 23:55:42 +0000",
       "cooked_rabbit": "2025-05-17 00:49:06 +0000",
@@ -2267,6 +2270,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-05-18 01:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2025-05-18 01:14:06 +0000"
     },
     "done": true
   },
