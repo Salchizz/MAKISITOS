@@ -58,3 +58,13 @@
 [00:50:12] [Server thread/INFO]: coca_cola_humana has made the advancement [Best Friends Forever]
 [00:55:28] [Server thread/INFO]: coca_cola_humana has made the advancement [What a Deal!]
 [01:01:44] [Server thread/INFO]: Salchipoio has made the advancement [Diamonds!]
+[01:04:49] [Server thread/INFO]: Salchipoio issued server command: /tp coca_cola_humana
+[01:04:49] [Server thread/INFO]: [Salchipoio: Teleported Salchipoio to coca_cola_humana]
+[01:05:20] [Server thread/INFO]: coca_cola_humana has made the advancement [Diamonds!]
+[01:06:31] [Server thread/INFO]: coca_cola_humana lost connection: Disconnected
+[01:06:31] [Server thread/INFO]: coca_cola_humana left the game
+[01:06:40] [User Authenticator #3/INFO]: UUID of player coca_cola_humana is c43b4714-399b-3d80-b414-86069c3bdb48
+[01:06:42] [Server thread/INFO]: coca_cola_humana joined the game
+[01:06:42] [Server thread/INFO]: coca_cola_humana[/127.212.227.152:48845] logged in with entity id 37733 at ([world]313.5, 64.0, -200604.5)
+[01:06:44] [Server thread/INFO]: Salchipoio issued server command: /time set day
+[01:06:44] [Server thread/INFO]: [Salchipoio: Set the time to 1000]
