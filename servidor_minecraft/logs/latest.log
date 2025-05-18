@@ -81,3 +81,8 @@
 [01:29:33] [Server thread/INFO]: Salchipoio issued server command: /op coca_cola_humana
 [01:29:33] [Server thread/INFO]: [Salchipoio: Made coca_cola_humana a server operator]
 [01:32:03] [Server thread/INFO]: Salchipoio has made the advancement [What a Deal!]
+[01:32:40] [Server thread/INFO]: Salchipoio has made the advancement [A Seedy Place]
+[01:35:10] [Server thread/INFO]: Villager Villager['Nitwit'/32810, uuid='159e5366-551f-4e2e-b184-92ed08054771', l='ServerLevel[world]', x=302.47, y=64.00, z=-200617.51, cpos=[18, -12539], tl=60478, v=true] died, message: 'Nitwit was slain by Salchipoio'
+[01:40:20] [Server thread/INFO]: death.attack.shockbolt
+[01:40:44] [Server thread/INFO]: death.attack.shockbolt
+[01:40:48] [Server thread/INFO]: death.attack.shockbolt

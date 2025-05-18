@@ -185,6 +185,7 @@
       "kill_a_mob": "2025-05-14 21:11:00 +0000",
       "cure_zombie_villager": "2025-05-17 00:38:19 +0000",
       "smelt_iron": "2025-05-14 20:19:30 +0000",
+      "plant_seed": "2025-05-18 01:32:40 +0000",
       "voluntary_exile": "2025-05-17 23:44:36 +0000",
       "husbandry": "2025-05-14 21:14:39 +0000",
       "mine_stone": "2025-05-14 20:10:14 +0000",
@@ -192,6 +193,7 @@
       "minecraft_trials_edition": "2025-05-17 00:32:24 +0000",
       "sleep_in_bed": "2025-05-17 23:38:12 +0000",
       "tactical_fishing": "2025-05-18 01:14:06 +0000",
+      "trade": "2025-05-18 01:32:03 +0000",
       "shoot_arrow": "2025-05-17 23:47:00 +0000",
       "mine_diamond": "2025-05-18 01:01:44 +0000",
       "brew_potion": "2025-05-17 00:34:11 +0000",
@@ -1884,9 +1886,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-18 00:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
     },
     "done": true
   },
@@ -1920,15 +1934,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-05-17 23:20:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-05-18 01:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
     },
     "done": true
   },
@@ -1959,6 +1991,18 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
     },
     "done": true
   },
@@ -2058,6 +2102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-18 01:07:33 +0000"
@@ -2142,9 +2192,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-18 01:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 00:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
     },
     "done": true
   },
@@ -2157,6 +2219,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "roguecraft:triggers/info_messages/classes": {
+    "criteria": {
+      "requirement": "2025-05-18 01:41:59 +0000"
     },
     "done": true
   },
@@ -2310,6 +2378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-17 23:46:37 +0000"
@@ -2319,6 +2393,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-05-18 01:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
     },
     "done": true
   },
@@ -2364,6 +2444,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-18 01:32:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-18 01:01:44 +0000"
@@ -2379,6 +2465,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-17 23:45:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
     },
     "done": true
   },
@@ -2439,6 +2531,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-17 23:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-18 01:39:12 +0000"
     },
     "done": true
   },

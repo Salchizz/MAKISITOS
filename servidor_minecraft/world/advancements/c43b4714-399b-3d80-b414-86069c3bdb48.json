@@ -370,6 +370,7 @@
       "minecraft:spider": "2025-05-18 00:32:39 +0000",
       "minecraft:zombie": "2025-05-14 20:10:48 +0000",
       "minecraft:creeper": "2025-05-18 00:32:24 +0000",
+      "minecraft:drowned": "2025-05-18 01:38:58 +0000",
       "minecraft:zombie_villager": "2025-05-18 01:26:02 +0000"
     },
     "done": false
@@ -401,7 +402,8 @@
       "cooked_mutton": "2025-05-17 23:45:01 +0000",
       "mushroom_stew": "2025-05-17 23:41:13 +0000",
       "cooked_beef": "2025-05-17 23:04:33 +0000",
-      "melon_slice": "2025-05-18 00:05:09 +0000"
+      "melon_slice": "2025-05-18 00:05:09 +0000",
+      "cooked_salmon": "2025-05-18 01:36:12 +0000"
     },
     "done": false
   },
@@ -2259,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-18 01:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-05-18 01:25:48 +0000"
@@ -2286,6 +2294,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-18 01:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-18 01:39:55 +0000"
     },
     "done": true
   },
