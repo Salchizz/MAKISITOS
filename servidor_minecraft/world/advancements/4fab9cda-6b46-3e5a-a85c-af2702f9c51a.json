@@ -905,6 +905,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-18 01:21:53 +0000",
       "mutton": "2025-05-17 23:50:27 +0000",
+      "golden_apple": "2025-05-18 01:25:49 +0000",
       "bread": "2025-05-17 23:55:42 +0000",
       "cooked_rabbit": "2025-05-17 00:49:06 +0000",
       "cooked_chicken": "2025-05-17 23:48:55 +0000",
@@ -1817,6 +1818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-18 01:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 00:22:59 +0000"
@@ -2054,6 +2061,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-18 01:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-18 01:31:06 +0000"
     },
     "done": true
   },

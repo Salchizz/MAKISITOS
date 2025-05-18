@@ -70,3 +70,14 @@
 [01:06:44] [Server thread/INFO]: [Salchipoio: Set the time to 1000]
 [01:14:06] [Server thread/INFO]: Salchipoio has made the advancement [Tactical Fishing]
 [01:15:59] [Server thread/INFO]: coca_cola_humana has made the advancement [Suit Up]
+[01:22:34] [Server thread/INFO]: Salchipoio issued server command: /time set day
+[01:22:34] [Server thread/INFO]: [Salchipoio: Set the time to 1000]
+[01:25:08] [Server thread/INFO]: Villager Villager['Farmer'/32488, uuid='ef4fe5ce-405f-41dd-8370-9ca278c1021f', l='ServerLevel[world]', x=290.46, y=76.17, z=-200554.72, cpos=[18, -12535], tl=48515, v=true] died, message: 'Farmer was slain by Zombie Villager'
+[01:25:26] [Server thread/INFO]: Salchipoio issued server command: /op coca_cola_humana
+[01:25:26] [Server thread/INFO]: [Salchipoio: Made coca_cola_humana a server operator]
+[01:25:48] [Server thread/INFO]: coca_cola_humana has made the advancement [Take Aim]
+[01:26:13] [Server thread/INFO]: Salchipoio issued server command: /deop coca_cola_humana
+[01:26:13] [Server thread/INFO]: [Salchipoio: Made coca_cola_humana no longer a server operator]
+[01:29:33] [Server thread/INFO]: Salchipoio issued server command: /op coca_cola_humana
+[01:29:33] [Server thread/INFO]: [Salchipoio: Made coca_cola_humana a server operator]
+[01:32:03] [Server thread/INFO]: Salchipoio has made the advancement [What a Deal!]
