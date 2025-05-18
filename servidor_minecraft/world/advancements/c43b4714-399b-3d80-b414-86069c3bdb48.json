@@ -253,17 +253,19 @@
   },
   "roguecraft:challenges/all_vanilla": {
     "criteria": {
-      "adventure": "2025-05-14 20:10:49 +0000",
-      "minecraft_trials_edition": "2025-05-17 00:32:23 +0000",
       "form_obsidian": "2025-05-18 00:38:58 +0000",
-      "sleep_in_bed": "2025-05-17 23:38:12 +0000",
       "kill_a_mob": "2025-05-14 20:10:49 +0000",
       "smelt_iron": "2025-05-17 00:50:01 +0000",
-      "enchant_item": "2025-05-17 00:58:43 +0000",
       "plant_seed": "2025-05-18 00:24:12 +0000",
       "voluntary_exile": "2025-05-17 23:42:57 +0000",
       "husbandry": "2025-05-14 20:22:49 +0000",
       "mine_stone": "2025-05-14 20:10:28 +0000",
+      "adventure": "2025-05-14 20:10:49 +0000",
+      "minecraft_trials_edition": "2025-05-17 00:32:23 +0000",
+      "sleep_in_bed": "2025-05-17 23:38:12 +0000",
+      "trade": "2025-05-18 00:55:28 +0000",
+      "enchant_item": "2025-05-17 00:58:43 +0000",
+      "tame_an_animal": "2025-05-18 00:50:12 +0000",
       "story": "2025-05-14 20:10:21 +0000"
     },
     "done": false
@@ -1947,6 +1949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-18 00:55:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-05-18 00:38:59 +0000"
@@ -1962,6 +1970,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 00:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-18 00:51:11 +0000"
     },
     "done": true
   },
@@ -1989,6 +2003,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-18 00:55:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 00:39:21 +0000"
@@ -2004,6 +2024,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-18 00:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-18 00:50:12 +0000"
     },
     "done": true
   },
@@ -2058,6 +2084,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 00:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-18 00:51:11 +0000"
     },
     "done": true
   },
